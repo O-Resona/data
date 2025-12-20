@@ -482,9 +482,9 @@ const pickData = [
   {
     player: "-Inui Sana-",
     picks: {
-      698249: false,
+      698249: true,
       202756: false,
-      863249: false,
+      863249: true,
       611753: false,
       279481: false,
       58970: false,
@@ -497,7 +497,7 @@ const pickData = [
       675854: false,
       34056: false,
       299041: false,
-      733432: false,
+      733432: true,
       145669: false,
       58063: false,
       3276769: false
@@ -750,23 +750,24 @@ const pickData = [
       202756: false,
       863249: false,
       611753: false,
-      279481: false,
-      58970: false,
-      684163: false,
-      1118285: false,
-      65233: false,
-      240488: false,
+      279481: true,
+      58970: true,//nm6
+      684163: true,
+      1118285: true,
+      65233: false,//hd3
+      240488: true,
       775365: false,
-      104389: false,
-      675854: false,
+      104389: false,//hr3
+      675854: true,
       34056: false,
-      299041: false,
+      299041: false,//DT3
       733432: false,
-      145669: false,
-      58063: false,
+      145669: true,
+      58063: true,
       3276769: false
     }
   }
 ];
 
 export default pickData;
+
