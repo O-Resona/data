@@ -397,8 +397,8 @@ const pickData = [
       65233: false,
       240488: false,
       775365: false,
-      104389: true,    // HR3: 1
-      675854: false,
+      104389: false,
+      675854: true,
       34056: false,
       299041: true,    // DT3: 1
       733432: false,
@@ -422,7 +422,7 @@ const pickData = [
       240488: true,    // HR1: 1
       775365: true,    // HR2: 1
       104389: false,
-      675854: false,
+      675854: true,
       34056: false,
       299041: true,    // DT3: 1
       733432: false,
