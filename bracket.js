@@ -133,8 +133,8 @@ const SCHEDULE_DATA = {
         {
             "stage": "Group Stage",
             "matchCode": "C2",
-            "date": "(Sun) Dec 21",
-            "time": "20:00",
+            "date": "(Sat) Dec 20",
+            "time": "22:00",
             "player1": "Flyer",
             "player2": "7ony",
             "redScore": 0,
