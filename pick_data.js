@@ -629,9 +629,9 @@ const pickData = [
       698249: false,
       202756: false,
       863249: false,
-      611753: false,
+      611753: true,
       279481: false,
-      58970: false,
+      58970: true,
       684163: false,
       1118285: false,
       65233: false,
@@ -643,7 +643,7 @@ const pickData = [
       299041: false,
       733432: false,
       145669: false,
-      58063: false,
+      58063: true,
       3276769: false
     }
   },
@@ -770,4 +770,5 @@ const pickData = [
 ];
 
 export default pickData;
+
 
