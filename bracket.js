@@ -94,7 +94,7 @@ const SCHEDULE_DATA = {
             "stage": "Group Stage",
             "matchCode": "B4",
             "date": "(Sat) Dec 27",
-            "time": "20:00",
+            "time": "22:00",
             "player1": "GAO HAO",
             "player2": "Zkyler",
             "redScore": 0,
@@ -267,8 +267,8 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "RevengeWolf",
             "player2": "Fallen_HK",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 1
         },
         {
             "stage": "Group Stage",
@@ -284,7 +284,7 @@ const SCHEDULE_DATA = {
             "stage": "Group Stage",
             "matchCode": "E5",
             "date": "(Sun) Dec 28",
-            "time": "19:00",
+            "time": "21:00",
             "player1": "MeowHou",
             "player2": "Fallen_HK",
             "redScore": 0,
@@ -303,7 +303,7 @@ const SCHEDULE_DATA = {
         {
             "stage": "Group Stage",
             "matchCode": "F1",
-            "date": "(Mon) Dec 22",
+            "date": "(Sat) Dec 27",
             "time": "21:00",
             "player1": "Bochi the osu",
             "player2": "koutya_",
@@ -324,7 +324,7 @@ const SCHEDULE_DATA = {
             "stage": "Group Stage",
             "matchCode": "F3",
             "date": "(Sat) Dec 27",
-            "time": "13:51",
+            "time": "22:00",
             "player1": "koutya_",
             "player2": "- kouyuu -",
             "redScore": 0,
@@ -343,8 +343,8 @@ const SCHEDULE_DATA = {
         {
             "stage": "Group Stage",
             "matchCode": "F5",
-            "date": "(Sun) Dec 28",
-            "time": "18:00",
+            "date": "(Sat) Dec 27",
+            "time": "16:00",
             "player1": "Bochi the osu",
             "player2": "- kouyuu -",
             "redScore": 0,
@@ -427,8 +427,8 @@ const SCHEDULE_DATA = {
             "time": "23:00",
             "player1": "Chloe Wing Kiu",
             "player2": "Summer_Ouo",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 3,
+            "blueScore": 5
         },
         {
             "stage": "Group Stage",
