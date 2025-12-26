@@ -173,8 +173,8 @@ const SCHEDULE_DATA = {
         {
             "stage": "Group Stage",
             "matchCode": "C6",
-            "date": "(Sun) Dec 28",
-            "time": "22:00",
+            "date": "(Sat) Dec 27",
+            "time": "20:00",
             "player1": "Flyer",
             "player2": "DAQAO",
             "redScore": 0,
@@ -453,8 +453,8 @@ const SCHEDULE_DATA = {
         {
             "stage": "Group Stage",
             "matchCode": "H4",
-            "date": "(Sat) Dec 27",
-            "time": "19:00",
+            "date": "(Sun) Dec 28",
+            "time": "14:00",
             "player1": "lelxdme",
             "player2": "Summer_Ouo",
             "redScore": 0,
