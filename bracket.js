@@ -37,8 +37,8 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "Moonlit111",
             "player2": "aaront",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 1
         },
         {
             "stage": "Group Stage",
@@ -87,8 +87,8 @@ const SCHEDULE_DATA = {
             "time": "23:00",
             "player1": "Zkyler",
             "player2": "Silent Rock",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 2,
+            "blueScore": 5
         },
         {
             "stage": "Group Stage",
@@ -97,8 +97,8 @@ const SCHEDULE_DATA = {
             "time": "22:00",
             "player1": "GAO HAO",
             "player2": "Zkyler",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 2
         },
         {
             "stage": "Group Stage",
@@ -157,8 +157,8 @@ const SCHEDULE_DATA = {
             "time": "19:00",
             "player1": "Flyer",
             "player2": "SBHO",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 2
         },
         {
             "stage": "Group Stage",
@@ -167,8 +167,8 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "DAQAO",
             "player2": "7ony",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 1
         },
         {
             "stage": "Group Stage",
@@ -177,8 +177,8 @@ const SCHEDULE_DATA = {
             "time": "20:00",
             "player1": "Flyer",
             "player2": "DAQAO",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 2
         },
         {
             "stage": "Group Stage",
@@ -217,8 +217,8 @@ const SCHEDULE_DATA = {
             "time": "18:00",
             "player1": "Tokirii",
             "player2": "13roil",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 4,
+            "blueScore": 5
         },
         {
             "stage": "Group Stage",
@@ -284,7 +284,7 @@ const SCHEDULE_DATA = {
             "stage": "Group Stage",
             "matchCode": "E5",
             "date": "(Sun) Dec 28",
-            "time": "21:00",
+            "time": "20:00",
             "player1": "MeowHou",
             "player2": "Fallen_HK",
             "redScore": 0,
@@ -294,7 +294,7 @@ const SCHEDULE_DATA = {
             "stage": "Group Stage",
             "matchCode": "E6",
             "date": "(Sun) Dec 28",
-            "time": "20:00",
+            "time": "21:00",
             "player1": "My Angel Bronya",
             "player2": "MeowHou",
             "redScore": 0,
@@ -307,8 +307,8 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "Bochi the osu",
             "player2": "koutya_",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 2,
+            "blueScore": 5
         },
         {
             "stage": "Group Stage",
@@ -327,14 +327,14 @@ const SCHEDULE_DATA = {
             "time": "22:00",
             "player1": "koutya_",
             "player2": "- kouyuu -",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 3,
+            "blueScore": 5
         },
         {
             "stage": "Group Stage",
             "matchCode": "F4",
-            "date": "(Sat) Dec 27",
-            "time": "23:00",
+            "date": "(Sun) Dec 28",
+            "time": "20:00",
             "player1": "[ RoneKu ]",
             "player2": "koutya_",
             "redScore": 0,
@@ -347,8 +347,8 @@ const SCHEDULE_DATA = {
             "time": "16:00",
             "player1": "Bochi the osu",
             "player2": "- kouyuu -",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 2,
+            "blueScore": 5
         },
         {
             "stage": "Group Stage",
@@ -418,7 +418,7 @@ const SCHEDULE_DATA = {
             "player1": "-Mqre-",
             "player2": "-Inui Sana-",
             "redScore": 0,
-            "blueScore": 0
+            "blueScore": -1
         },
         {
             "stage": "Group Stage",
