@@ -17,8 +17,8 @@ const SCHEDULE_DATA = {
             "time": "22:00",
             "player1": "Moonlit111",
             "player2": "AbbeyChan6203",
-            "redScore": 5,
-            "blueScore": 0
+            "redScore": 0,
+            "blueScore": -1
         },
         {
             "stage": "Group Stage",
@@ -27,8 +27,8 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "aaront",
             "player2": "AbbeyChan6203",
-            "redScore": 5,
-            "blueScore": 0
+            "redScore": 0,
+            "blueScore": -1
         },
         {
             "stage": "Group Stage",
@@ -47,8 +47,8 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "Diaostrophism",
             "player2": "AbbeyChan6203",
-            "redScore": 5,
-            "blueScore": 0
+            "redScore": 0,
+            "blueScore": -1
         },
         {
             "stage": "Group Stage",
@@ -57,8 +57,8 @@ const SCHEDULE_DATA = {
             "time": "20:00",
             "player1": "Moonlit111",
             "player2": "Diaostrophism",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 3
         },
         {
             "stage": "Group Stage",
@@ -77,8 +77,8 @@ const SCHEDULE_DATA = {
             "time": "20:00",
             "player1": "GAO HAO",
             "player2": "Silent Rock",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 2
         },
         {
             "stage": "Group Stage",
@@ -223,7 +223,7 @@ const SCHEDULE_DATA = {
         {
             "stage": "Group Stage",
             "matchCode": "D5",
-            "date": "(Sat) Dec 27",
+            "date": "(Sun) Dec 28",
             "time": "20:00",
             "player1": "Ruyaya",
             "player2": "-Whitedog-",
@@ -388,7 +388,7 @@ const SCHEDULE_DATA = {
             "player1": "oliwakami",
             "player2": "BurgerKing",
             "redScore": 5,
-            "blueScore": 0
+            "blueScore": 1
         },
         {
             "stage": "Group Stage",
@@ -397,7 +397,7 @@ const SCHEDULE_DATA = {
             "time": "13:00",
             "player1": "-Mqre-",
             "player2": "oliwakami",
-            "redScore": 0,
+            "redScore": 5,
             "blueScore": 0
         },
         {
@@ -454,7 +454,7 @@ const SCHEDULE_DATA = {
             "stage": "Group Stage",
             "matchCode": "H4",
             "date": "(Sun) Dec 28",
-            "time": "14:00",
+            "time": "21:00",
             "player1": "lelxdme",
             "player2": "Summer_Ouo",
             "redScore": 0,
@@ -474,7 +474,7 @@ const SCHEDULE_DATA = {
             "stage": "Group Stage",
             "matchCode": "H6",
             "date": "(Sun) Dec 28",
-            "time": "23:00",
+            "time": "23:30",
             "player1": "lelxdme",
             "player2": "Chloe Wing Kiu",
             "redScore": 0,
