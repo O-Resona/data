@@ -386,12 +386,12 @@ const pickData = [
   {
     player: "lelxdme",
     picks: {
-      698249: false,    // NM1: 0
+      698249: true,    // NM1: 1
       202756: false,    // NM2: 0
       863249: true,    // NM3: 1
       611753: true,    // NM4: 1
       279481: false,    // NM5: 0
-      58970: false,    // NM6: 0
+      58970: true,    // NM6: 1
       684163: false,    // HD1: 0
       1118285: false,    // HD2: 0
       65233: false,    // HD3: 0
@@ -403,7 +403,7 @@ const pickData = [
       299041: true,    // DT3: 1
       733432: false,    // FM1: 0
       145669: true,    // FM2: 1
-      58063: false,    // FM3: 0
+      58063: true,    // FM3: 1
       3276769: false    // 保持0
     }
   },
@@ -426,7 +426,7 @@ const pickData = [
       34056: true,    // DT2: 1
       299041: true,    // DT3: 1
       733432: false,    // FM1: 0
-      145669: false,    // FM2: 0
+      145669: true,    // FM2: 1
       58063: true,    // FM3: 1
       3276769: false    // 保持0
     }
@@ -510,11 +510,11 @@ const pickData = [
       202756: false,    // NM2: 0
       863249: true,    // NM3: 1
       611753: true,    // NM4: 1
-      279481: false,    // NM5: 0
+      279481: true,    // NM5: 1
       58970: false,    // NM6: 0
       684163: true,    // HD1: 1
       1118285: false,    // HD2: 0
-      65233: false,    // HD3: 0
+      65233: true,    // HD3: 1
       240488: true,    // HR1: 1
       775365: true,    // HR2: 1
       104389: true,    // HR3: 1
