@@ -134,7 +134,7 @@ const pickData = [
       240488: false,    // HR1: 0
       775365: false,    // HR2: 0
       104389: true,    // HR3: 1
-      675854: false,    // DT1: 0
+      675854: true,    // DT1: 1
       34056: true,    // DT2: 1
       299041: false,    // DT3: 0
       733432: true,    // FM1: 1
@@ -770,6 +770,7 @@ const pickData = [
 ];
 
 export default pickData;
+
 
 
 
