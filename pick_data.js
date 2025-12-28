@@ -508,11 +508,11 @@ const pickData = [
     picks: {
       698249: false,    // NM1: 0
       202756: false,    // NM2: 0
-      863249: false,    // NM3: 0
+      863249: true,    // NM3: 1
       611753: true,    // NM4: 1
       279481: false,    // NM5: 0
       58970: false,    // NM6: 0
-      684163: false,    // HD1: 0
+      684163: true,    // HD1: 1
       1118285: false,    // HD2: 0
       65233: false,    // HD3: 0
       240488: true,    // HR1: 1
@@ -520,7 +520,7 @@ const pickData = [
       104389: true,    // HR3: 1
       675854: false,    // DT1: 0
       34056: false,    // DT2: 0
-      299041: false,    // DT3: 0
+      299041: true,    // DT3: 1
       733432: false,    // FM1: 0
       145669: false,    // FM2: 0
       58063: false,    // FM3: 0
@@ -770,6 +770,7 @@ const pickData = [
 ];
 
 export default pickData;
+
 
 
 
