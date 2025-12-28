@@ -7,8 +7,8 @@ const SCHEDULE_DATA = {
             "time": "20:00",
             "player1": "Diaostrophism",
             "player2": "aaront",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 2
         },
         {
             "stage": "Group Stage",
@@ -107,8 +107,8 @@ const SCHEDULE_DATA = {
             "time": "22:00",
             "player1": "Qualifiers",
             "player2": "Silent Rock",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 3
         },
         {
             "stage": "Group Stage",
@@ -117,8 +117,8 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "GAO HAO",
             "player2": "Qualifiers",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 4,
+            "blueScore": 5
         },
         {
             "stage": "Group Stage",
@@ -227,13 +227,13 @@ const SCHEDULE_DATA = {
             "time": "20:00",
             "player1": "Ruyaya",
             "player2": "-Whitedog-",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 3
         },
         {
             "stage": "Group Stage",
             "matchCode": "D6",
-            "date": "(Sun) Dec 28",
+            "date": "(Mon) Dec 29",
             "time": "23:00",
             "player1": "Tokirii",
             "player2": "Ruyaya",
@@ -287,18 +287,18 @@ const SCHEDULE_DATA = {
             "time": "20:00",
             "player1": "MeowHou",
             "player2": "Fallen_HK",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 4
         },
         {
             "stage": "Group Stage",
             "matchCode": "E6",
             "date": "(Sun) Dec 28",
-            "time": "21:00",
+            "time": "21:10",
             "player1": "My Angel Bronya",
             "player2": "MeowHou",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 1,
+            "blueScore": 5
         },
         {
             "stage": "Group Stage",
@@ -338,7 +338,7 @@ const SCHEDULE_DATA = {
             "player1": "[ RoneKu ]",
             "player2": "koutya_",
             "redScore": 0,
-            "blueScore": 0
+            "blueScore": 5
         },
         {
             "stage": "Group Stage",
@@ -357,8 +357,8 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "[ RoneKu ]",
             "player2": "Bochi the osu",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 3
         },
         {
             "stage": "Group Stage",
@@ -457,18 +457,18 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "lelxdme",
             "player2": "Summer_Ouo",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 4
         },
         {
             "stage": "Group Stage",
             "matchCode": "H5",
             "date": "(Sun) Dec 28",
-            "time": "18:00",
+            "time": "22:00",
             "player1": "Chloe Wing Kiu",
             "player2": "gxytcgxytc",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 1
         },
         {
             "stage": "Group Stage",
@@ -478,7 +478,7 @@ const SCHEDULE_DATA = {
             "player1": "lelxdme",
             "player2": "Chloe Wing Kiu",
             "redScore": 0,
-            "blueScore": 0
+            "blueScore": 5
         }
     ]
 };
