@@ -234,11 +234,11 @@ const SCHEDULE_DATA = {
             "stage": "Group Stage",
             "matchCode": "D6",
             "date": "(Mon) Dec 29",
-            "time": "23:00",
+            "time": "22:30",
             "player1": "Tokirii",
             "player2": "Ruyaya",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 1,
+            "blueScore": 5
         },
         {
             "stage": "Group Stage",
@@ -479,6 +479,86 @@ const SCHEDULE_DATA = {
             "player2": "Chloe Wing Kiu",
             "redScore": 0,
             "blueScore": 5
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "1",
+            "date": "(Fri) Jan 2",
+            "time": "13:00",
+            "player1": "SBHO",
+            "player2": "-Mqre-",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "2",
+            "date": "(Sat) Jan 3",
+            "time": "21:00",
+            "player1": "Tokirii",
+            "player2": "oliwakami",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "3",
+            "date": "(Sat) Jan 3",
+            "time": "20:00",
+            "player1": "-Whitedog-",
+            "player2": "lelxdme",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "4",
+            "date": "(Sat) Jan 3",
+            "time": "21:00",
+            "player1": "7ony",
+            "player2": "My Angel Bronya",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "5",
+            "date": "(Sat) Jan 3",
+            "time": "20:00",
+            "player1": "Chloe Wing Kiu",
+            "player2": "MeowHou",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "6",
+            "date": "(Sat) Jan 3",
+            "time": "23:00",
+            "player1": "Silent Rock",
+            "player2": "koutya_",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "7",
+            "date": "(Sat) Jan 3",
+            "time": "20:00",
+            "player1": "Zkyler",
+            "player2": "- kouyuu -",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "8",
+            "date": "(Fri) Jan 2",
+            "time": "21:00",
+            "player1": "aaront",
+            "player2": "Summer_Ouo",
+            "redScore": 0,
+            "blueScore": 0
         }
     ]
 };
