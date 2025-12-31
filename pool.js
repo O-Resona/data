@@ -22,14 +22,30 @@ const poolData = {
         { id: "3276769", title: "DJ SHARPNEL - FAKE PROMISE", mapper: "Nana Abe", difficulty: "NISEMONO", mod: "TieBreaker", bg: "https://assets.ppy.sh/beatmaps/1604660/covers/cover.jpg" }
     ],
     "Quarter Finals": [
-        // 这里可以添加四分之一决赛的地图数据
-        // 格式示例：
-        // { id: "123456", title: "Example Title", mapper: "Example Mapper", difficulty: "Example Difficulty", mod: "NoMod", bg: "https://example.com/cover.jpg" }
+        { id: "494818", title: "U1 overground - Dopamine", mapper: "fanzhen0019", difficulty: "C6H3(OH)2-CH2-CH2-NH2", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/210316/covers/cover.jpg" },
+        { id: "820336", title: "Kuroneko Dungeon - Ryoushi no Umi no Lindwurm", mapper: "P o M u T a", difficulty: "ignore's EXTREME", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/372850/covers/cover.jpg" },
+        { id: "1211828", title: "TERRASPEX - AMAZING BREAK", mapper: "Monstrata", difficulty: "DESPAIR", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/571835/covers/cover.jpg" },
+        { id: "970048", title: "BABYMETAL - Gimme chocolate!!", mapper: "alacat", difficulty: "BLACK CHOCOLATE!!", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/452230/covers/cover.jpg" },
+        { id: "462700", title: "ESTi - HELIX (Edit ver.)", mapper: "Hollow Wings", difficulty: "EX EX", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/194910/covers/cover.jpg" },
+        { id: "115384", title: "Demetori - Silent Voyage to Eternity", mapper: "brikel", difficulty: "BMix", mod: "Hidden", bg: "https://assets.ppy.sh/beatmaps/14309/covers/cover.jpg" },
+        { id: "1242790", title: "Eisyo-kobu - Oriental Blossom", mapper: "Crystal", difficulty: "Karen's Extra", mod: "Hidden", bg: "https://assets.ppy.sh/beatmaps/586889/covers/cover.jpg" },
+        { id: "434438", title: "Studio EIM - Crescent Moon Island Boss Theme", mapper: "Rakuen", difficulty: "[ -Scarlet- ]'s Extra", mod: "HardRock", bg: "https://assets.ppy.sh/beatmaps/173422/covers/cover.jpg" },
+        { id: "215238", title: "Rohi - Kakuzetsu Thanatos", mapper: "NatsumeRin", difficulty: "Rin", mod: "HardRock", bg: "https://assets.ppy.sh/beatmaps/76396/covers/cover.jpg" },
+        { id: "809513", title: "Kalafina - Kyrie", mapper: "Vell", difficulty: "Genesis", mod: "DoubleTime", bg: "https://assets.ppy.sh/beatmaps/369380/covers/cover.jpg" },
+        { id: "1227137", title: "ZAQ - Serendipity", mapper: "Mir", difficulty: "Lasse's Insane", mod: "DoubleTime", bg: "https://assets.ppy.sh/beatmaps/578619/covers/cover.jpg" },
+        { id: "68624", title: "HTT - NO, Thank You!", mapper: "CDFA", difficulty: "Collab", mod: "DoubleTime", bg: "https://assets.ppy.sh/beatmaps/19532/covers/cover.jpg" },
+        { id: "1118311", title: "Mediks - Outbreak", mapper: "Strategas", difficulty: "Doomsday", mod: "FreeMod", bg: "https://assets.ppy.sh/beatmaps/527082/covers/cover.jpg" },
+        { id: "1076701", title: "Ayalis - Ai o Chikaishi Hime Kazari", mapper: "handsome", difficulty: "Master", mod: "FreeMod", bg: "https://assets.ppy.sh/beatmaps/506155/covers/cover.jpg" },
+        { id: "50845", title: "forestpireo - Kanojo Ga Ichiban Shoujo Nanoka?", mapper: "Teara", difficulty: "KIRBY Mix", mod: "FreeMod", bg: "https://assets.ppy.sh/beatmaps/11773/covers/cover.jpg" },
+        { id: "633993", title: "gmtn. (witch's slave) - furioso melodia", mapper: "Alumetorz", difficulty: "Wrath", mod: "TieBreaker", bg: "https://assets.ppy.sh/beatmaps/280107/covers/cover.jpg" }
     ],
     "Semi Finals": [
         // 这里可以添加半决赛的地图数据
     ],
-    "Finals": [
+    "Finals Week1": [
+        // 这里可以添加决赛的地图数据
+    ],
+    "Finals Week2": [
         // 这里可以添加决赛的地图数据
     ]
 };
