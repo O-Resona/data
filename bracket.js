@@ -543,8 +543,8 @@ const SCHEDULE_DATA = {
         {
             "stage": "Quarter Finals",
             "matchCode": "7",
-            "date": "(Sat) Jan 3",
-            "time": "20:00",
+            "date": "(Mon) Jan 5",
+            "time": "21:00",
             "player1": "Zkyler",
             "player2": "- kouyuu -",
             "redScore": 0,
