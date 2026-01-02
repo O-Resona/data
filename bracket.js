@@ -577,8 +577,8 @@ const SCHEDULE_DATA = {
             "time": "20:00",
             "player1": "Qualifiers",
             "player2": "DAQAO",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 2,
+            "blueScore": 6
         },
         {
             "stage": "Quarter Finals",
@@ -587,8 +587,8 @@ const SCHEDULE_DATA = {
             "time": "20:00",
             "player1": "Flyer",
             "player2": "13roil",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 6,
+            "blueScore": 3
         },
         {
             "stage": "Quarter Finals",
@@ -602,3 +602,4 @@ const SCHEDULE_DATA = {
         }
     ]
 };
+
