@@ -557,8 +557,8 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "aaront",
             "player2": "Summer_Ouo",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 2,
+            "blueScore": 6
         },
         {
             "stage": "Quarter Finals",
@@ -602,4 +602,5 @@ const SCHEDULE_DATA = {
         }
     ]
 };
+
 
