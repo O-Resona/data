@@ -487,8 +487,8 @@ const SCHEDULE_DATA = {
             "time": "13:00",
             "player1": "SBHO",
             "player2": "-Mqre-",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 1,
+            "blueScore": 6
         },
         {
             "stage": "Quarter Finals",
@@ -557,6 +557,46 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "aaront",
             "player2": "Summer_Ouo",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "13",
+            "date": "(Sat) Jan 3",
+            "time": "20:00",
+            "player1": "Moonlit111",
+            "player2": "GAO HAO",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "14",
+            "date": "(Fri) Jan 2",
+            "time": "20:00",
+            "player1": "Qualifiers",
+            "player2": "DAQAO",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "15",
+            "date": "(Fri) Jan 2",
+            "time": "20:00",
+            "player1": "Flyer",
+            "player2": "13roil",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "16",
+            "date": "(Sun) Jan 4",
+            "time": "21:00",
+            "player1": "Ruyaya",
+            "player2": "Diaostrophism",
             "redScore": 0,
             "blueScore": 0
         }
