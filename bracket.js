@@ -518,7 +518,7 @@ const SCHEDULE_DATA = {
             "player1": "7ony",
             "player2": "My Angel Bronya",
             "redScore": 0,
-            "blueScore": 0
+            "blueScore": -1
         },
         {
             "stage": "Quarter Finals",
@@ -534,7 +534,7 @@ const SCHEDULE_DATA = {
             "stage": "Quarter Finals",
             "matchCode": "6",
             "date": "(Sat) Jan 3",
-            "time": "23:00",
+            "time": "22:00",
             "player1": "Silent Rock",
             "player2": "koutya_",
             "redScore": 0,
@@ -602,5 +602,3 @@ const SCHEDULE_DATA = {
         }
     ]
 };
-
-
