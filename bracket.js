@@ -497,8 +497,8 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "Tokirii",
             "player2": "oliwakami",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 3,
+            "blueScore": 6
         },
         {
             "stage": "Quarter Finals",
@@ -602,4 +602,5 @@ const SCHEDULE_DATA = {
         }
     ]
 };
+
 
