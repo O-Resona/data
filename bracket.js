@@ -507,8 +507,8 @@ const SCHEDULE_DATA = {
             "time": "20:00",
             "player1": "-Whitedog-",
             "player2": "lelxdme",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 2,
+            "blueScore": 6
         },
         {
             "stage": "Quarter Finals",
@@ -527,8 +527,8 @@ const SCHEDULE_DATA = {
             "time": "20:00",
             "player1": "Chloe Wing Kiu",
             "player2": "MeowHou",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 6,
+            "blueScore": 5
         },
         {
             "stage": "Quarter Finals",
@@ -567,8 +567,8 @@ const SCHEDULE_DATA = {
             "time": "20:00",
             "player1": "Moonlit111",
             "player2": "GAO HAO",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 2,
+            "blueScore": 6
         },
         {
             "stage": "Quarter Finals",
@@ -602,3 +602,4 @@ const SCHEDULE_DATA = {
         }
     ]
 };
+
