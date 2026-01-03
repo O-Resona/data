@@ -537,8 +537,8 @@ const SCHEDULE_DATA = {
             "time": "22:00",
             "player1": "Silent Rock",
             "player2": "koutya_",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 5,
+            "blueScore": 6
         },
         {
             "stage": "Quarter Finals",
@@ -599,8 +599,36 @@ const SCHEDULE_DATA = {
             "player2": "Diaostrophism",
             "redScore": 0,
             "blueScore": 0
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "9",
+            "date": "(Sun) Jan 4",
+            "time": "23:00",
+            "player1": "oliwakami",
+            "player2": "-Mqre-",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "10",
+            "date": "(Sun) Jan 4",
+            "time": "22:00",
+            "player1": "7ony",
+            "player2": "lelxdme",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "11",
+            "date": "(Sun) Jan 4",
+            "time": "22:00",
+            "player1": "koutya_",
+            "player2": "Chloe Wing Kiu",
+            "redScore": 0,
+            "blueScore": 0
         }
     ]
 };
-
-
