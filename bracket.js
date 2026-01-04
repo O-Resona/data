@@ -617,8 +617,8 @@ const SCHEDULE_DATA = {
             "time": "22:00",
             "player1": "7ony",
             "player2": "lelxdme",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 4,
+            "blueScore": 6
         },
         {
             "stage": "Quarter Finals",
@@ -632,6 +632,7 @@ const SCHEDULE_DATA = {
         }
     ]
 };
+
 
 
 
