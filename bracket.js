@@ -597,7 +597,7 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "Ruyaya",
             "player2": "Diaostrophism",
-            "redScore": 0,
+            "redScore": 6,
             "blueScore": 0
         },
         {
@@ -627,10 +627,11 @@ const SCHEDULE_DATA = {
             "time": "22:00",
             "player1": "koutya_",
             "player2": "Chloe Wing Kiu",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 1,
+            "blueScore": 6
         }
     ]
 };
+
 
 
