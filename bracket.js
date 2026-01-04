@@ -604,7 +604,7 @@ const SCHEDULE_DATA = {
             "stage": "Quarter Finals",
             "matchCode": "9",
             "date": "(Sun) Jan 4",
-            "time": "23:00",
+            "time": "11:30",
             "player1": "oliwakami",
             "player2": "-Mqre-",
             "redScore": 0,
@@ -632,3 +632,4 @@ const SCHEDULE_DATA = {
         }
     ]
 };
+
