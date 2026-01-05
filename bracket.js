@@ -547,8 +547,8 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "Zkyler",
             "player2": "- kouyuu -",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 1,
+            "blueScore": 6
         },
         {
             "stage": "Quarter Finals",
@@ -629,9 +629,20 @@ const SCHEDULE_DATA = {
             "player2": "Chloe Wing Kiu",
             "redScore": 1,
             "blueScore": 6
+        },
+        {
+            "stage": "Quarter Finals",
+            "matchCode": "12",
+            "date": "(Mon) Jan 5",
+            "time": "22:30",
+            "player1": "Summer_Ouo",
+            "player2": "- kouyuu -",
+            "redScore": 0,
+            "blueScore": 0
         }
     ]
 };
+
 
 
 
