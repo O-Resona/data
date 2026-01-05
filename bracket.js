@@ -597,17 +597,17 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "Ruyaya",
             "player2": "Diaostrophism",
-            "redScore": 6,
-            "blueScore": 0
+            "redScore": 2,
+            "blueScore": 6
         },
         {
             "stage": "Quarter Finals",
             "matchCode": "9",
             "date": "(Sun) Jan 4",
-            "time": "11:30",
+            "time": "23:00",
             "player1": "oliwakami",
             "player2": "-Mqre-",
-            "redScore": 5,
+            "redScore": 2,
             "blueScore": 6
         },
         {
@@ -617,8 +617,8 @@ const SCHEDULE_DATA = {
             "time": "22:00",
             "player1": "7ony",
             "player2": "lelxdme",
-            "redScore": 4,
-            "blueScore": 6
+            "redScore": 6,
+            "blueScore": 3
         },
         {
             "stage": "Quarter Finals",
@@ -627,8 +627,8 @@ const SCHEDULE_DATA = {
             "time": "22:00",
             "player1": "koutya_",
             "player2": "Chloe Wing Kiu",
-            "redScore": 1,
-            "blueScore": 6
+            "redScore": 6,
+            "blueScore": 0
         },
         {
             "stage": "Quarter Finals",
@@ -637,13 +637,68 @@ const SCHEDULE_DATA = {
             "time": "22:30",
             "player1": "Summer_Ouo",
             "player2": "- kouyuu -",
+            "redScore": 5,
+            "blueScore": 6
+        },
+        {
+            "stage": "Semi Finals",
+            "matchCode": "17",
+            "date": "(Sat) Jan 10",
+            "time": "21:00",
+            "player1": "Moonlit111",
+            "player2": "Chloe Wing Kiu",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Semi Finals",
+            "matchCode": "18",
+            "date": "(Sat) Jan 10",
+            "time": "20:00",
+            "player1": "Qualifiers",
+            "player2": "- kouyuu -",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Semi Finals",
+            "matchCode": "19",
+            "date": "(Sat) Jan 10",
+            "time": "23:00",
+            "player1": "13roil",
+            "player2": "-Mqre-",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Semi Finals",
+            "matchCode": "20",
+            "date": "(Sat) Jan 10",
+            "time": "22:00",
+            "player1": "Diaostrophism",
+            "player2": "lelxdme",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Semi Finals",
+            "matchCode": "23",
+            "date": "(Thu) Jan 8",
+            "time": "19:00",
+            "player1": "GAO HAO",
+            "player2": "DAQAO",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Semi Finals",
+            "matchCode": "24",
+            "date": "(Sun) Jan 11",
+            "time": "22:00",
+            "player1": "Flyer",
+            "player2": "Ruyaya",
             "redScore": 0,
             "blueScore": 0
         }
     ]
 };
-
-
-
-
-
