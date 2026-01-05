@@ -40,7 +40,24 @@ const poolData = {
         { id: "633993", title: "gmtn. (witch's slave) - furioso melodia", mapper: "Alumetorz", difficulty: "Wrath", mod: "TieBreaker", bg: "https://assets.ppy.sh/beatmaps/280107/covers/cover.jpg" }
     ],
     "Semi Finals": [
-        // 这里可以添加半决赛的地图数据
+        { id: "1693575", title: "Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.)", mapper: "Mir", difficulty: "Beisu Doroppu", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/806859/covers/cover.jpg" },
+        { id: "1838165", title: "xi - Bad Elixir", mapper: "Cherry Blossom", difficulty: "Idealism", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/878944/covers/cover.jpg" },
+        { id: "1544460", title: "Luschka - unravel", mapper: "Mirash", difficulty: "Collab Expert", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/731933/covers/cover.jpg" },
+        { id: "880321", title: "sana - Packet Hero", mapper: "Fuccho", difficulty: "Ruthless", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/404910/covers/cover.jpg" },
+        { id: "39076", title: "Taiko no Tatsujin - Haya Saitama2000", mapper: "Zekira", difficulty: "Oni", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/9917/covers/cover.jpg" },
+        { id: "1490377", title: "FUJIN CLUB - Tabi to Ferry", mapper: "dsco", difficulty: "Seaside", mod: "Hidden", bg: "https://assets.ppy.sh/beatmaps/704541/covers/cover.jpg" },
+        { id: "1354636", title: "Sota Fujimori - polygon", mapper: "Sebu", difficulty: "heptagon", mod: "Hidden", bg: "https://assets.ppy.sh/beatmaps/422136/covers/cover.jpg" },
+        { id: "1178810", title: "uma vs. Morimori Atsushi - Re:End of a Dream", mapper: "Battle", difficulty: "Re:Vival", mod: "Hidden", bg: "https://assets.ppy.sh/beatmaps/557039/covers/cover.jpg" },
+        { id: "1746993", title: "Nekomata Master - Izanami's wail", mapper: "Uberzolik", difficulty: "Xilver's extrA!!", mod: "HardRock", bg: "https://assets.ppy.sh/beatmaps/792367/covers/cover.jpg" },
+        { id: "154853", title: "Hatsune Miku - Electric Love (t+pazolite Overcute Remix)", mapper: "Zapy", difficulty: "Overcute", mod: "HardRock", bg: "https://assets.ppy.sh/beatmaps/50373/covers/cover.jpg" },
+        { id: "1481624", title: "succducc - me & u", mapper: "Nathan", difficulty: "together", mod: "HardRock", bg: "https://assets.ppy.sh/beatmaps/699749/covers/cover.jpg" },
+        { id: "363298", title: "Draw the Emotional - Morning glow", mapper: "UnitedWeSin", difficulty: "Lunatic", mod: "DoubleTime", bg: "https://assets.ppy.sh/beatmaps/146626/covers/cover.jpg" },
+        { id: "1054400", title: "senya - Zouka de Arou to Shita Mono", mapper: "Satellite", difficulty: "Ancients", mod: "DoubleTime", bg: "https://assets.ppy.sh/beatmaps/495283/covers/cover.jpg" },
+        { id: "434536", title: "TOKINE - Soko ni Aru Mono (Sped Up Ver.)", mapper: "Patchouli", difficulty: "Maikaze", mod: "DoubleTime", bg: "https://assets.ppy.sh/beatmaps/70137/covers/cover.jpg" },
+        { id: "1714637", title: "Luschka - Kami no Kotoba", mapper: "byfar", difficulty: "Voice of God", mod: "FreeMod", bg: "https://assets.ppy.sh/beatmaps/817667/covers/cover.jpg" },
+        { id: "1350353", title: "Camellia - Towards The Horizon", mapper: "Pho", difficulty: "White Extra", mod: "FreeMod", bg: "https://assets.ppy.sh/beatmaps/636393/covers/cover.jpg" },
+        { id: "122693", title: "S.S.H. - Intersect Thunderbolt-Remix", mapper: "7odoa", difficulty: "Exceed", mod: "FreeMod", bg: "https://assets.ppy.sh/beatmaps/38316/covers/cover.jpg" },
+        { id: "816327", title: "Wagakki Band - Tengaku", mapper: "Shiro", difficulty: "Uncompressed Fury of a Raging Japanese God", mod: "TieBreaker", bg: "https://assets.ppy.sh/beatmaps/336414/covers/cover.jpg" }
     ],
     "Finals Week1": [
         // 这里可以添加决赛的地图数据
@@ -81,3 +98,4 @@ function getRoundNames() {
 
 // 导出数据（用于模块化导入）
 export { poolData, getAllMaps, getMapsByRound, getRoundNames };
+
