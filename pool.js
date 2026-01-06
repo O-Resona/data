@@ -40,7 +40,7 @@ const poolData = {
         { id: "633993", title: "gmtn. (witch's slave) - furioso melodia", mapper: "Alumetorz", difficulty: "Wrath", mod: "TieBreaker", bg: "https://assets.ppy.sh/beatmaps/280107/covers/cover.jpg" }
     ],
     "Semi Finals": [
-        { id: "1693575", title: "Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.)", mapper: "Mir", difficulty: "Beisu Doroppu", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/806859/covers/cover.jpg" },
+        { id: "1693575", title: "Camellia feat. Nanahira - Bassdrop Freaks (2018 \"Redrop\" ver.)", mapper: "Mir", difficulty: "Beisu Doroppu", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/806859/covers/cover.jpg" },
         { id: "1838165", title: "xi - Bad Elixir", mapper: "Cherry Blossom", difficulty: "Idealism", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/878944/covers/cover.jpg" },
         { id: "1544460", title: "Luschka - unravel", mapper: "Mirash", difficulty: "Collab Expert", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/731933/covers/cover.jpg" },
         { id: "880321", title: "sana - Packet Hero", mapper: "Fuccho", difficulty: "Ruthless", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/404910/covers/cover.jpg" },
@@ -98,4 +98,5 @@ function getRoundNames() {
 
 // 导出数据（用于模块化导入）
 export { poolData, getAllMaps, getMapsByRound, getRoundNames };
+
 
