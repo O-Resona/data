@@ -653,8 +653,8 @@ const SCHEDULE_DATA = {
         {
             "stage": "Semi Finals",
             "matchCode": "18",
-            "date": "(Sat) Jan 10",
-            "time": "20:00",
+            "date": "(Fri) Jan 9",
+            "time": "22:00",
             "player1": "Qualifiers",
             "player2": "- kouyuu -",
             "redScore": 0,
@@ -683,8 +683,8 @@ const SCHEDULE_DATA = {
         {
             "stage": "Semi Finals",
             "matchCode": "23",
-            "date": "(Thu) Jan 8",
-            "time": "19:00",
+            "date": "(Sun) Jan 11",
+            "time": "15:00",
             "player1": "GAO HAO",
             "player2": "DAQAO",
             "redScore": 0,
