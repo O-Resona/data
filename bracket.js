@@ -657,8 +657,8 @@ const SCHEDULE_DATA = {
             "time": "22:00",
             "player1": "Qualifiers",
             "player2": "- kouyuu -",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 6,
+            "blueScore": 4
         },
         {
             "stage": "Semi Finals",
@@ -702,3 +702,4 @@ const SCHEDULE_DATA = {
         }
     ]
 };
+
