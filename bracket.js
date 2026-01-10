@@ -644,7 +644,7 @@ const SCHEDULE_DATA = {
             "stage": "Semi Finals",
             "matchCode": "17",
             "date": "(Sat) Jan 10",
-            "time": "21:00",
+            "time": "22:00",
             "player1": "Moonlit111",
             "player2": "Chloe Wing Kiu",
             "redScore": 0,
@@ -702,4 +702,5 @@ const SCHEDULE_DATA = {
         }
     ]
 };
+
 
