@@ -687,8 +687,8 @@ const SCHEDULE_DATA = {
             "time": "15:00",
             "player1": "GAO HAO",
             "player2": "DAQAO",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 6,
+            "blueScore": 1
         },
         {
             "stage": "Semi Finals",
@@ -722,5 +722,6 @@ const SCHEDULE_DATA = {
         }
     ]
 };
+
 
 
