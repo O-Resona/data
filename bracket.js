@@ -704,7 +704,7 @@ const SCHEDULE_DATA = {
             "stage": "Semi Finals",
             "matchCode": "21",
             "date": "(Sun) Jan 11",
-            "time": "21:00",
+            "time": "16:00",
             "player1": "Qualifiers",
             "player2": "Moonlit111",
             "redScore": 0,
@@ -722,4 +722,5 @@ const SCHEDULE_DATA = {
         }
     ]
 };
+
 
