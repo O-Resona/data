@@ -707,8 +707,8 @@ const SCHEDULE_DATA = {
             "time": "16:00",
             "player1": "Qualifiers",
             "player2": "Moonlit111",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 1,
+            "blueScore": 6
         },
         {
             "stage": "Semi Finals",
@@ -722,6 +722,7 @@ const SCHEDULE_DATA = {
         }
     ]
 };
+
 
 
 
