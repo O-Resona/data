@@ -713,8 +713,8 @@ const SCHEDULE_DATA = {
         {
             "stage": "Semi Finals",
             "matchCode": "22",
-            "date": "(Sun) Jan 11",
-            "time": "20:00",
+            "date": "(Mon) Jan 12",
+            "time": "11:00",
             "player1": "Diaostrophism",
             "player2": "-Mqre-",
             "redScore": 0,
@@ -722,3 +722,4 @@ const SCHEDULE_DATA = {
         }
     ]
 };
+
