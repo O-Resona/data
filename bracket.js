@@ -704,7 +704,7 @@ const SCHEDULE_DATA = {
             "stage": "Semi Finals",
             "matchCode": "21",
             "date": "(Sun) Jan 11",
-            "time": "16:00",
+            "time": "21:00",
             "player1": "Qualifiers",
             "player2": "Moonlit111",
             "redScore": 1,
@@ -713,17 +713,42 @@ const SCHEDULE_DATA = {
         {
             "stage": "Semi Finals",
             "matchCode": "22",
-            "date": "(Mon) Jan 12",
-            "time": "11:00",
+            "date": "(Sun) Jan 11",
+            "time": "20:00",
             "player1": "Diaostrophism",
             "player2": "-Mqre-",
+            "redScore": 6,
+            "blueScore": 4
+        },
+        {
+            "stage": "Finals Week 1",
+            "matchCode": "25",
+            "date": "(Sat) Jan 17",
+            "time": "20:00",
+            "player1": "DAQAO",
+            "player2": "Diaostrophism",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Finals Week 1",
+            "matchCode": "26",
+            "date": "(Sat) Jan 17",
+            "time": "22:00",
+            "player1": "Flyer",
+            "player2": "Moonlit111",
+            "redScore": 0,
+            "blueScore": 0
+        },
+        {
+            "stage": "Finals Week 1",
+            "matchCode": "28",
+            "date": "(Sun) Jan 18",
+            "time": "22:00",
+            "player1": "GAO HAO",
+            "player2": "Ruyaya",
             "redScore": 0,
             "blueScore": 0
         }
     ]
 };
-
-
-
-
-
