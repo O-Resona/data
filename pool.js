@@ -59,7 +59,7 @@ const poolData = {
         { id: "122693", title: "S.S.H. - Intersect Thunderbolt-Remix", mapper: "7odoa", difficulty: "Exceed", mod: "FreeMod", bg: "https://assets.ppy.sh/beatmaps/38316/covers/cover.jpg" },
         { id: "816327", title: "Wagakki Band - Tengaku", mapper: "Shiro", difficulty: "Uncompressed Fury of a Raging Japanese God", mod: "TieBreaker", bg: "https://assets.ppy.sh/beatmaps/336414/covers/cover.jpg" }
     ],
-    "Finals Week1": [
+    "Finals Week 1": [
         { id: "2675756", title: "Aqours - Kimeta yo Hand in Hand", mapper: "SkyFlame", difficulty: "Unity", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/1288914/covers/cover.jpg" },
         { id: "3310526", title: "Xi - Densetsu no Sabori Shinigami ~ Make a quick escape", mapper: "Toumei Dragon", difficulty: "Extra Stage", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/1621473/covers/cover.jpg" },
         { id: "3879769", title: "majiko - Koe", mapper: "Delis", difficulty: "Delhi and Marrakesh's Tragic Distant Love [Travel to Azerbaijan]", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/1884351/covers/cover.jpg" },
@@ -81,7 +81,7 @@ const poolData = {
         { id: "3871780", title: "tricot - Setsuyakuka", mapper: "DeviousPanda", difficulty: "Panda & Camo's Expert", mod: "FreeMod", bg: "https://assets.ppy.sh/beatmaps/1880641/covers/cover.jpg" },
         { id: "2256387", title: "Falcom Sound Team jdk - GENS D'ARMES", mapper: "jonathanlfj", difficulty: "CONQUEROR", mod: "TieBreaker", bg: "https://assets.ppy.sh/beatmaps/1078344/covers/cover.jpg" }
     ],
-    "Finals Week2": [
+    "Finals Week 2": [
         // 这里可以添加决赛的地图数据
     ]
 };
@@ -117,6 +117,7 @@ function getRoundNames() {
 
 // 导出数据（用于模块化导入）
 export { poolData, getAllMaps, getMapsByRound, getRoundNames };
+
 
 
 
