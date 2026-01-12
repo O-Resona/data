@@ -60,7 +60,26 @@ const poolData = {
         { id: "816327", title: "Wagakki Band - Tengaku", mapper: "Shiro", difficulty: "Uncompressed Fury of a Raging Japanese God", mod: "TieBreaker", bg: "https://assets.ppy.sh/beatmaps/336414/covers/cover.jpg" }
     ],
     "Finals Week1": [
-        // 这里可以添加决赛的地图数据
+        { id: "2675756", title: "Aqours - Kimeta yo Hand in Hand", mapper: "SkyFlame", difficulty: "Unity", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/1288914/covers/cover.jpg" },
+        { id: "3310526", title: "Xi - Densetsu no Sabori Shinigami ~ Make a quick escape", mapper: "Toumei Dragon", difficulty: "Extra Stage", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/1621473/covers/cover.jpg" },
+        { id: "3879769", title: "majiko - Koe", mapper: "Delis", difficulty: "Delhi and Marrakesh's Tragic Distant Love [Travel to Azerbaijan]", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/1884351/covers/cover.jpg" },
+        { id: "3871738", title: "Juggernaut. - Rebellion", mapper: "Altai", difficulty: "Why Don't You Trust Me?", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/1880627/covers/cover.jpg" },
+        { id: "2708952", title: "goreshit - xenobeat", mapper: "fergas", difficulty: "DeathleSS", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/1306568/covers/cover.jpg" },
+        { id: "1947213", title: "Pastel*Palettes - Happy Synthesizer", mapper: "ktgster", difficulty: "Special", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/932654/covers/cover.jpg" },
+        { id: "2036903", title: "James Landino - Hide And Seek", mapper: "Mirash", difficulty: "Expert", mod: "Hidden", bg: "https://assets.ppy.sh/beatmaps/972932/covers/cover.jpg" },
+        { id: "2554582", title: "koushirou - Amata no Mai -Dance of many-", mapper: "IOException", difficulty: "Expert", mod: "Hidden", bg: "https://assets.ppy.sh/beatmaps/1228557/covers/cover.jpg" },
+        { id: "1634985", title: "DragonForce - Ring of Fire", mapper: "MashaSG", difficulty: "sdafsf's Extreme", mod: "Hidden", bg: "https://assets.ppy.sh/beatmaps/717015/covers/cover.jpg" },
+        { id: "1563445", title: "Team.NEKOKAN - Airman ga Taosenai", mapper: "Sotarks", difficulty: "Mir's Extra", mod: "HardRock", bg: "https://assets.ppy.sh/beatmaps/732994/covers/cover.jpg" },
+        { id: "1863199", title: "HyuN - White Aura", mapper: "Mirash", difficulty: "Delis' Extra", mod: "HardRock", bg: "https://assets.ppy.sh/beatmaps/891333/covers/cover.jpg" },
+        { id: "3860793", title: "Redside - Sidequest", mapper: "Feiri", difficulty: "collab adventure", mod: "HardRock", bg: "https://assets.ppy.sh/beatmaps/1876071/covers/cover.jpg" },
+        { id: "1072406", title: "Tommy heavenly6 - PAPERMOON", mapper: "Jounzan", difficulty: "Insane", mod: "DoubleTime", bg: "https://assets.ppy.sh/beatmaps/503978/covers/cover.jpg" },
+        { id: "3322598", title: "A-One feat. Hanatan - Break The Hierarchie", mapper: "DeviousPanda", difficulty: "Insane", mod: "DoubleTime", bg: "https://assets.ppy.sh/beatmaps/1627491/covers/cover.jpg" },
+        { id: "859667", title: "Lime - Renai Syndrome", mapper: "apaffy", difficulty: "Another", mod: "DoubleTime", bg: "https://assets.ppy.sh/beatmaps/166062/covers/cover.jpg" },
+        { id: "3322610", title: "Hatsuki Yura - Koisuru Marionette", mapper: "KKipalt", difficulty: "Insane", mod: "DoubleTime", bg: "https://assets.ppy.sh/beatmaps/1627501/covers/cover.jpg" },
+        { id: "2719427", title: "Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka?", mapper: "Lasse", difficulty: "Affection", mod: "FreeMod", bg: "https://assets.ppy.sh/beatmaps/1312124/covers/cover.jpg" },
+        { id: "1908543", title: "paraoka - boot", mapper: "Natteke desu", difficulty: "difficulty", mod: "FreeMod", bg: "https://assets.ppy.sh/beatmaps/913680/covers/cover.jpg" },
+        { id: "3871780", title: "tricot - Setsuyakuka", mapper: "DeviousPanda", difficulty: "Panda & Camo's Expert", mod: "FreeMod", bg: "https://assets.ppy.sh/beatmaps/1880641/covers/cover.jpg" },
+        { id: "2256387", title: "Falcom Sound Team jdk - GENS D'ARMES", mapper: "jonathanlfj", difficulty: "CONQUEROR", mod: "TieBreaker", bg: "https://assets.ppy.sh/beatmaps/1078344/covers/cover.jpg" }
     ],
     "Finals Week2": [
         // 这里可以添加决赛的地图数据
@@ -98,5 +117,6 @@ function getRoundNames() {
 
 // 导出数据（用于模块化导入）
 export { poolData, getAllMaps, getMapsByRound, getRoundNames };
+
 
 
