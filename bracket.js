@@ -737,14 +737,14 @@ const SCHEDULE_DATA = {
             "time": "22:00",
             "player1": "Flyer",
             "player2": "Moonlit111",
-            "redScore": 0,
+            "redScore": -1,
             "blueScore": 0
         },
         {
             "stage": "Finals Week 1",
             "matchCode": "28",
-            "date": "(Sun) Jan 18",
-            "time": "22:00",
+            "date": "(Mon) Jan 19",
+            "time": "21:00",
             "player1": "GAO HAO",
             "player2": "Ruyaya",
             "redScore": 0,
@@ -752,3 +752,4 @@ const SCHEDULE_DATA = {
         }
     ]
 };
+
