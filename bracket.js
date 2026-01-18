@@ -757,10 +757,11 @@ const SCHEDULE_DATA = {
             "time": "20:00",
             "player1": "Moonlit111",
             "player2": "Diaostrophism",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 7,
+            "blueScore": 5
         }
     ]
 };
+
 
 
