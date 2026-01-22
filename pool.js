@@ -82,7 +82,26 @@ const poolData = {
         { id: "2256387", title: "Falcom Sound Team jdk - GENS D'ARMES", mapper: "jonathanlfj", difficulty: "CONQUEROR", mod: "TieBreaker", bg: "https://assets.ppy.sh/beatmaps/1078344/covers/cover.jpg" }
     ],
     "Finals Week 2": [
-        // 这里可以添加决赛的地图数据
+        { id: "3333705", title: "katagiri - Buta Musou", mapper: "BarkingMadDog", difficulty: "Unparalleled", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/1633225/covers/cover.jpg" },
+        { id: "3322513", title: "Halv - Romanesque", mapper: "knowledgeking", difficulty: "Eternal Hope", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/1627446/covers/cover.jpg" },
+        { id: "3889346", title: "JYOCHO - Kirei na Sankaku, Asahi Ningen", mapper: "Raijodo", difficulty: "Special", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/1888518/covers/cover.jpg" },
+        { id: "3890684", title: "DJ Raisei - T.R.A.P.", mapper: "Halgoh", difficulty: "Vesperal Singularity", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/1889105/covers/cover.jpg" },
+        { id: "2719305", title: "Brymir - Hails from the Edge", mapper: "LMT", difficulty: "War Cry", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/1312066/covers/cover.jpg" },
+        { id: "2719326", title: "II-L - SPUTNIK-3", mapper: "DeviousPanda", difficulty: "Beyond OWC", mod: "NoMod", bg: "https://assets.ppy.sh/beatmaps/1312076/covers/cover.jpg" },
+        { id: "4133726", title: "FELT - Summer Fever", mapper: "Camo", difficulty: "Shimmering Sky", mod: "Hidden", bg: "https://assets.ppy.sh/beatmaps/1888937/covers/cover.jpg" },
+        { id: "2719334", title: "Chikamori Kayako - Kigurumi Sungeki", mapper: "Mirash", difficulty: "Labyrinth of Steam", mod: "Hidden", bg: "https://assets.ppy.sh/beatmaps/1312079/covers/cover.jpg" },
+        { id: "3890688", title: "Sephid - Thunderstrike 1988", mapper: "captin1", difficulty: "Thunderstrike 2022", mod: "Hidden", bg: "https://assets.ppy.sh/beatmaps/1889109/covers/cover.jpg" },
+        { id: "3081546", title: "Roselia - ZEAL of proud", mapper: "SkyFlame", difficulty: "Radiant", mod: "HardRock", bg: "https://assets.ppy.sh/beatmaps/1504153/covers/cover.jpg" },
+        { id: "2719372", title: "Takanashi Yasuharu - Ketsudan no Toki", mapper: "Mordred", difficulty: "Final Judgement", mod: "HardRock", bg: "https://assets.ppy.sh/beatmaps/1312098/covers/cover.jpg" },
+        { id: "3333660", title: "tarolabo - eth ken", mapper: "Keqing", difficulty: "Arcane OWC", mod: "HardRock", bg: "https://assets.ppy.sh/beatmaps/1633205/covers/cover.jpg" },
+        { id: "2719411", title: "Asaka - Eternal Star", mapper: "Luscent", difficulty: "Eternity", mod: "DoubleTime", bg: "https://assets.ppy.sh/beatmaps/1312114/covers/cover.jpg" },
+        { id: "3333586", title: "Nightwish - Sacrament of Wilderness", mapper: "Nao Tomori", difficulty: "Insane (OWC)", mod: "DoubleTime", bg: "https://assets.ppy.sh/beatmaps/1633156/covers/cover.jpg" },
+        { id: "818597", title: "Demetori - Kuuchuu ni Shizumu Kishinjou ~ Counter-Clock World", mapper: "jonathanlfj", difficulty: "Lunatic Collab", mod: "DoubleTime", bg: "https://assets.ppy.sh/beatmaps/347719/covers/cover.jpg" },
+        { id: "2603690", title: "Akatsuki Records - Adieu, to this Lively Graveyard", mapper: "yaspo", difficulty: "KIRBY REMIX DELUXE EDITION", mod: "DoubleTime", bg: "https://assets.ppy.sh/beatmaps/1252820/covers/cover.jpg" },
+        { id: "3890637", title: "Falcom Sound Team jdk - Satisfied Madness", mapper: "jonathanlfj", difficulty: "Abyss", mod: "FreeMod", bg: "https://assets.ppy.sh/beatmaps/1889083/covers/cover.jpg" },
+        { id: "2719437", title: "LeaF - Kyouki Ranbu", mapper: "toybot", difficulty: "Master", mod: "FreeMod", bg: "https://assets.ppy.sh/beatmaps/1312129/covers/cover.jpg" },
+        { id: "3890721", title: "yak_won - Wind Tales", mapper: "ktgster", difficulty: "Extreme", mod: "FreeMod", bg: "https://assets.ppy.sh/beatmaps/1889131/covers/cover.jpg" },
+        { id: "3333745", title: "Yooh - RPG", mapper: "Zelq", difficulty: "Divinity", mod: "TieBreaker", bg: "https://assets.ppy.sh/beatmaps/1633250/covers/cover.jpg" }
     ]
 };
 
@@ -117,6 +136,7 @@ function getRoundNames() {
 
 // 导出数据（用于模块化导入）
 export { poolData, getAllMaps, getMapsByRound, getRoundNames };
+
 
 
 
