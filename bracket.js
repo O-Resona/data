@@ -759,19 +759,30 @@ const SCHEDULE_DATA = {
             "player2": "Diaostrophism",
             "redScore": 7,
             "blueScore": 5
-        }
+        },
         {
             "stage": "Finals Week 2",
-            "matchCode": "28",
+            "matchCode": "29",
             "date": "(Thu) Jan 22",
-            "time": "20:00",
+            "time": "21:00",
             "player1": "GAO HAO",
             "player2": "Moonlit111",
             "redScore": 0,
             "blueScore": 0
-        }
+        },
+        {
+            "stage": "Finals Week 2",
+            "matchCode": "30",
+            "date": "(Thu) Jan 22",
+            "time": "21:00",
+            "player1": "Ruyaya",
+            "player2": "GAO HAO",
+            "redScore": 0,
+            "blueScore": 0
+        },
     ]
 };
+
 
 
 
