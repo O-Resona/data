@@ -780,8 +780,19 @@ const SCHEDULE_DATA = {
             "redScore": 0,
             "blueScore": 0
         },
+        {
+            "stage": "Finals Week 2",
+            "matchCode": "31",
+            "date": "(Fri) Jan 23",
+            "time": "24:00",
+            "player1": "GAO HAO",
+            "player2": "Ruyaya",
+            "redScore": 0,
+            "blueScore": 0
+        }
     ]
 };
+
 
 
 
