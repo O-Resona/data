@@ -747,8 +747,8 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "GAO HAO",
             "player2": "Ruyaya",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 3,
+            "blueScore": 7
         },
         {
             "stage": "Finals Week 1",
@@ -767,8 +767,8 @@ const SCHEDULE_DATA = {
             "time": "21:00",
             "player1": "GAO HAO",
             "player2": "Moonlit111",
-            "redScore": 0,
-            "blueScore": 0
+            "redScore": 7,
+            "blueScore": 4
         },
         {
             "stage": "Finals Week 2",
@@ -782,6 +782,7 @@ const SCHEDULE_DATA = {
         },
     ]
 };
+
 
 
 
